@@ -55,5 +55,5 @@
 
 ### shopping NL
 [remarkt goedkope hardware](https://remarkt.nl)  
-[GROVER betaalbare maand, kwartaal, 6 en 12 maand lease]()   
+[GROVER betaalbare korte lease](https://www.grover.com/nl-nl/referred/R-12OG6J3RU) use this 20 EUR discount link  
 [webdock goedkoop LXD VPS hosting](https://webdock.io/en/black-friday-cyber-monday-weekend-2022)    
