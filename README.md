@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @codebyhenry i speak English and Dutch.
-- 👀 I’m interested in WebDevelopment, building websites, interfaces, and opensource code solutions. 
+- 👀 I’m interested in Webdevelopment, building sites, interfaces, and opensource solutions. 
 - 🌱 I’m currently learning frontend HTML,CSS,JS & backend PHP at CodeGorilla.nl (Groningen NL).
-- 💞️ I’m looking to collaborate on Frontend Web projects and buiding PHP laravel web apps.
+- 💞️ I’m looking to collaborate on opensource projects and PHP (Laravel) web apps.
 - 📫 You can reach me [iHENRY.NL](https://ihenry.nl).
 
 ### Sponsor me
